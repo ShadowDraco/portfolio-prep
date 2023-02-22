@@ -10,6 +10,16 @@
 
 Aligning myself with the goals and vision of my team is important. I'm very capable of learning, teaching, problem solving, organizing projects and goals to keep my team on track. My work ethic, and growth mindset, leverage my skills in web development making me capable and reliable in the position that I am given. -- One minute Fifteen
 
+### PITCH AGAIN
+
+I am a full-stack software developer with the skills to build websites and work on those already built. I can work with any group, and any in environment by finding a balance between variables in the workplace and variables in life.
+
+I am deeply motivated to be a servant of God each day. So, whether it be through art, engineering, or working on a team, my goal is to be consistent and serve well in my position.
+
+I'm capable of taking on big tasks with little support and evaluating my role in situations. and that means: no matter how my team is involved my work will be consistent while working on improving the team. Which includes myself. 
+
+I've proven dedication and diligence in my life through the arts such as performing on stage and in competition, and in science by learning to use industry standard web development skills! I love a challenge, I love to learn, I want to grow, and I want to be someone who makes a real difference through action.  
+
 ### Technology is fascinating
 
 - As I've learned to code in multiple languages, patterns, and for many reasons I have seen things that were only child-hood dreams become functional apps. Creating my own game, diving into serious video editing/content creation, and even deploying a secure website with whatever purpose I decide from MMO to shopping centre is available to me because of the skills ive gained.
